@@ -1,0 +1,20 @@
+#welcome-section{
+  height: 100vw;
+  width: auto;
+}
+
+.navbar-section{
+  position: fixed;
+  top: 0;
+  z-index: 999;
+    
+}
+
+#navbar{
+    position: fixed;
+
+  }
+
+@media (min-width: 800px){
+  
+}
